@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sputnik",
+        "command": "sputnik:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sputnik",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sputnik:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
