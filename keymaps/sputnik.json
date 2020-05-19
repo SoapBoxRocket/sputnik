@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "sputnik:toggle"
+    "ctrl-alt-o": "sputnik:new-orbit"
   }
 }

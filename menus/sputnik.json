@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "sputnik",
+          "label": "Sputnik",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "sputnik:toggle"
+              "label": "New Orbit",
+              "command": "sputnik:new-orbit"
             }
           ]
         }
