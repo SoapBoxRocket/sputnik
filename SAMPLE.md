@@ -30,6 +30,7 @@
 
 * What's the difference between Action Items and Completed Actions?
   - I guess in general I need better section names
+  - Completed Actions changed to Accomplishments
 
 ---
 
