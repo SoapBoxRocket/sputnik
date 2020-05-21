@@ -20,17 +20,12 @@
 
 ---
 
-## Observations
+## Notes
 
 * Should Sputnik have a toolbar to automatically add observations, action items, or anything else?
-
----
-
-## Friction Points
-
 * What's the difference between Action Items and Completed Actions?
   - I guess in general I need better section names
-  - Completed Actions changed to Accomplishments
+    - Completed Actions changed to Accomplishments
 
 ---
 
@@ -40,7 +35,7 @@
 
 ---
 
-## Wrap Up
+## Journal
 
 The final section is a daily wrap up. It's a place to look back on the day and talk about it. I've got a fairly decent layout for the whold project, but still a number of questions I need to look at:
 1. Should each program/project be it's own Atom project or all compbined into one big directory?
