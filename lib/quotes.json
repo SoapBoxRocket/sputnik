@@ -64,40 +64,74 @@
       "quote": "Crash plans fail because they are based on the theory that, with nine women pregnant, you can get a baby a month.",
       "author": "Wernher von Braun"
     },
-* A theory is something nobody believes, except the person who made it. An experiment is something everybody believes, except the person who made it.
-	* Albert Einstein
-* Last words are for fools who haven't said enough.
-	* Karl Marx
-* Get your facts first, and then you can distort them as much as you please.
-	* Mark Twain
-* I skate to where the puck is going to be, not where it has been.
-	* Wayne Gretsky
-* Not all those who wanter are lost.
-	* J.R.R. Tolkien
-* Imagination governs the world.
-	* Napoleon
-* Take-offs are optional, landings are mandatory.
-	* Unknown Author
-* It wouldn't hurt that long, you would be killed almost instantly.
-	* Michael Goudeau
-* All science is either physics or stamp-collecting.
-	* Ernest Rutherford
-* If I occasionally neglect to cite a theorist, it's not because I've forgotten. It's probably because I hate him.
-	* Leon Lederman
-* I don't know what I may seem to the world. But as to myself I seem to have been only like a boy playing on the seashore and diverting myself now and then finding a smoother pebble or a prettier shell that the ordinary, while the great ocean of truth lay all undiscovered before me.
-	* Isaac Newton
-* A stand can be made against invasion by an army; no stand can be made agains invasion by an idea.
-	* Victor Hugo
-* A government which robs Peter to pay Paul can always depend on the support of Paul.
-	* George Bernard Shaw
-* I don't want to die without any scars.
-	* Chuck Palahniuk
-* If you want to make enemies, try to change something.
-	* Woodrow Wilson
-* It's not what you look at that matters, it's what you see.
-	* Henry David Thoreau
-* A research man is endlessly searching to find a use for something that has no use.
-	* Gordon Teal
+    {
+      "quote": "A theory is something nobody believes, except the person who made it. An experiment is something everybody believes, except the person who made it.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "Last words are for fools who haven't said enough.",
+      "author": "Karl Marx"
+    },
+    {
+      "quote": "Get your facts first, and then you can distort them as much as you please.",
+      "author": "Mark Twain"
+    },
+    {
+      "quote": "I skate to where the puck is going to be, not where it has been.",
+      "author": "Wayne Gretsky"
+    },
+    {
+      "quote": "Not all those who wanter are lost.",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "quote": "Imagination governs the world.",
+	    "author": "Napoleon"
+    },
+    {
+      "quote": "Take-offs are optional, landings are mandatory.",
+      "author": null
+    },
+    {
+      "quote": "It wouldn't hurt that long, you would be killed almost instantly.",
+	    "author": "Michael Goudeau"
+    },
+    {
+      "quote": "All science is either physics or stamp-collecting.",
+	    "author": "Ernest Rutherford"
+    },
+    {
+      "quote": "If I occasionally neglect to cite a theorist, it's not because I've forgotten. It's probably because I hate him.",
+      "author": "Leon Lederman"
+    },
+    {
+      "quote": "I don't know what I may seem to the world. But as to myself I seem to have been only like a boy playing on the seashore and diverting myself now and then finding a smoother pebble or a prettier shell that the ordinary, while the great ocean of truth lay all undiscovered before me.",
+      "author": "Isaac Newton"
+    },
+    {
+      "quote": "A stand can be made against invasion by an army; no stand can be made agains invasion by an idea.",
+	    "author": "Victor Hugo"
+    },
+    {
+      "quote": "A government which robs Peter to pay Paul can always depend on the support of Paul.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "quote": "I don't want to die without any scars.",
+      "author": "Chuck Palahniuk"
+    },
+    {
+      "quote": "If you want to make enemies, try to change something.",
+      "author": "Woodrow Wilson"
+    },
+    {
+      "quote": "It's not what you look at that matters, it's what you see.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "quote": "A research man is endlessly searching to find a use for something that has no use.",
+      "author": "Gordon Teal"
+    },
 * Be fearful when others are greedy and greedy when others are fearful.
 	* Warren Buffett
 * Because people who are crazy enough to think that they can change the world, usually do.
