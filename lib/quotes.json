@@ -136,52 +136,99 @@
       "quote": "Be fearful when others are greedy and greedy when others are fearful.",
       "author": "Warren Buffett"
     },
-* Because people who are crazy enough to think that they can change the world, usually do.
-	* Steve Jobs
-* Everyone has a plan until they get punched in the mouth.
-	* Mike Tyson
-* Those who live by the sword will be shot by those who don't.
-	* Gary Hamel
-* If I had 60 minutes to solve a problem, I'd spend 55 minutes defining it, and 5 minutes solving it.
-	* Albert Einstein
-* The best way to predict the future is to invent it.
-	* Alan Kay
-* Failure is simply the opportunity to begin again, this time more intelligently.
-	* Henery Ford
-* The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
-	* Fred Wilson
-* It's kinda fun to do the impossible.
-	* Walt Disney
-* Inside every large problem is a small problem struggling to get out.
-	* Tony Hoare
-* The mark of greatness is when everything before you is obsolete, and everything after you bears your mark.
-	* Dave Chappelle
-* Simplicity is the key to brilliance.
-	* Bruce Lee
-* You can observe a lot just by watching.
-	* Yogi Berra
-* To understand is to invent.
-	* Angelo Patri
-* You can't build a reputation on what you're going to do
-	* Henry Ford
-* Education is what remains after one has forgotten what one has learned in school.
-	* Albert Einstein
-* There is no substitute for hard work.
-	* Thomas Edison
-* If you don't innovate and address who your customers are, you become irrelevant.
-	* Jeff Bezos
-* The only difference between stumbling blocks and stepping stones is the way in which we use them.
-	* Adriana Doyle
-* You cannot force inspiration but you can woo it.
-	* Cynthia Wen
-* Thoroughly conscious ignorance is the prelude to every real advance in science.
-	* James Clerk Maxwell
-* The great obstacle of discovering the shape of the earth, the continents and the ocean was not ignorance but the illusion of knowledge.
-	* Daniel J. Boorstin
-* Science is always wrong. It never solves a problem without creating 10 more.
-	* George Bernard Shaw
-* In an honest search for knowledge, you quite often have to abide by ignorance for an indefinite period.
-	* Erwin Schrodinger
+    {
+      "quote": "Because people who are crazy enough to think that they can change the world, usually do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Everyone has a plan until they get punched in the mouth.",
+      "author": "Mike Tyson"
+    },
+    {
+      "quote": "Those who live by the sword will be shot by those who don't.",
+      "author": "Gary Hamel"
+    },
+    {
+      "quote": "If I had 60 minutes to solve a problem, I'd spend 55 minutes defining it, and 5 minutes solving it.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Henery Ford"
+    },
+    {
+      "quote": "The three most harmful addictions are heroin, carbohydrates, and a monthly salary.",
+      "author": "Fred Wilson"
+    },
+    {
+      "quote": "It's kinda fun to do the impossible.",
+      "author": "Walt Disney"
+    },
+    {
+      "quote": "Inside every large problem is a small problem struggling to get out.",
+      "author": "Tony Hoare"
+    },
+    {
+      "quote": "The mark of greatness is when everything before you is obsolete, and everything after you bears your mark.",
+      "author": "Dave Chappelle"
+    },
+    {
+      "quote": "Simplicity is the key to brilliance.",
+      "author": "Bruce Lee"
+    },
+    {
+      "quote": "You can observe a lot just by watching.",
+      "author": "Yogi Berra"
+    },
+    {
+      "quote": "To understand is to invent.",
+      "author": "Angelo Patri"
+    },
+    {
+      "quote": "You can't build a reputation on what you're going to do.",
+      "author": "Henry Ford"
+    },
+    {
+      "quote": "Education is what remains after one has forgotten what one has learned in school.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "There is no substitute for hard work.",
+      "author": "Thomas Edison"
+    },
+    {
+      "quote": "If you don't innovate and address who your customers are, you become irrelevant.",
+      "author": "Jeff Bezos"
+    },
+    {
+      "quote": "The only difference between stumbling blocks and stepping stones is the way in which we use them.",
+      "author": "Adriana Doyle"
+    },
+    {
+      "quote": "You cannot force inspiration but you can woo it.",
+      "author": "Cynthia Wen"
+    },
+    {
+      "quote": "Thoroughly conscious ignorance is the prelude to every real advance in science.",
+      "author": "James Clerk Maxwell"
+    },
+    {
+      "quote": "The great obstacle of discovering the shape of the earth, the continents and the ocean was not ignorance but the illusion of knowledge.",
+      "author": "Daniel J. Boorstin"
+    },
+    {
+      "quote": "Science is always wrong. It never solves a problem without creating 10 more.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "quote": "In an honest search for knowledge, you quite often have to abide by ignorance for an indefinite period.",
+      "author": "Erwin Schrodinger"
+    },
+    
 * If at first glance the idea does not seem absurd, there is no hope for it.
 	* Albert Einstein
 * There’s nothing efficient about innovation.
