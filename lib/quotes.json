@@ -328,93 +328,185 @@
       "quote": "The best way to get a good idea is to get a lot of ideas.",
       "author": "Linus Pauling"
     },
-* Predictions are hard, especially when they are about the future.
-	* Yogi Berra
-* Creativity is intelligence having fun.
-	* Albert Einstein
-* It’s easy to kill lousy ideas. To be a great company, you need to kill most of the good ideas too.
-	* Steve Jobs
-* Impressive failures signify impressive aspirations.
-	* Dean Kamen
-* After you plant a seed in the ground, you don’t dig it up every week to see how it is doing.
-	* William Coyne
-* Someone once defined a manager, half in jest, as someone who sees the visitors so that everyone else can get the work done.
-	* Henry Mintzberg
-* It is amazing what you can accomplish if you do not care who gets the credit.
-	* Harry S Truman
-* No matter how big you are, most of the smartest people work for someone else!
-	* Bill Joy
-* Design is the beauty of turning constraints into advantages.
-	* Aza Raskin
-* Confidence in nonsense is required.
-	* Burt Rutan
-* When two people in business always agree, one of them is unnecessary.
-	* William Wrigley Jr.
-* I have concluded that the essence of wisdom is to hold the attitude that knowledge is fallible and to strive for a balance between knowing and doubting.
-	* John Meacham
-* The way to get started is to quit talking and begin doing.
-	* Walt Disney
-* You can’t wait for inspiration. You have to go after it with a club.
-	* Jack London
-* Others have seen what is and asked why. I have seen what could be and asked why not.
-	* Pablo Picasso
-* Experience is the teacher of all things.
-	* Julius Caesar
-* The engineer’s first problem in any design situation is to discover what the problem really is.
-	* Sir Henry Royce
-* If opportunity doesn’t knock, build a door.
-	* Milton Berle
-* A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
-	* George Bernard Shaw
-* I didn't have time to write you a short letter, so I wrote you a long one instead.
-	* Mark Twain
-* I don’t care that they stole my idea; I care that they don’t have any of their own.
-	* Nikola Tesla
-* It’s often said that before you die your life passes before your eyes. It is in fact true. It’s called living.
-	* Terry Pratchett
-* To invent, you need a good imagination…and a pile of junk.
-	* Thomas Edison
-* However beautiful the strategy, you should occasionally look at the results.
-	* Winston Churchill
-* Perfection is not attainable, but if we chase perfection we can catch excellence.
-	* Vince Lombardi
-* Observation leads to conceptualization, speculation, postulation, experimentation, and, eventually, discovery.
-	* Dr. Brian L. Tiep, M.D.
-* It is easier to tame a crazy idea than to think up viable and innovative ideas from boring ones.
-	* Alex Osborn
-* It's hard to win an argument with a smart person, but it's damn near impossible to win an argument with a stupid person.
-	* Bill Murray
-* A little learning is a dangerous thing.
-	* Alexander Pope
-* Good intentions don’t work, but mechanisms do.
-	* Jeff Bezos
-* You make what you measure.
-	* Paul Graham
-* You must not fool yourself and you are the easiest person to fool.
-	* Richard Feynman
-* Blaming the user is not a good strategy.
-	* Larry Page
-* Data is only a middleman between phenomena and your ideas about them.
-	* Scott Berinatp
-* Business men go down with their businesses because they like the old way so well they cannot bring themselves to change. One sees them all about - men who do not know that yesterday is past, and who woke up this morning with their last year’s idea.
-	* Henry Ford
-* Belief can be manipulated. Only knowledge is dangerous.
-	* Frank Herbert
-* When times are hard, do something. If it works, do it some more. If it does not work, do something else. But keep going.
-	* Audre Lorde
-* Companies rarely die from moving too fast, and they frequently die from moving too slowly.
-	* Reed Hastings
-* If you choose not to decide you still have made a choice.
-	* Neil Peart
-* Judge a man by the questions he asks, not the answers he gives.
-	* Voltaire
-* A system is not the sum of the behavior of it’s parts; it’s the product of their interactions.
-	* Russell Ackoff
-* A collection of incompleteness, no matter how diligent or well-meaning, cannot be successful.
-	* Michael Schrage
-* Not facts, only information.
-  * Christophe Besset
-* A ship in harbor is safe, but that is not what ships are made for.
-  	* John A. Shedd
+    {
+      "quote": "Predictions are hard, especially when they are about the future.",
+      "author": "Yogi Berra"
+    },
+    {
+      "quote": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "It’s easy to kill lousy ideas. To be a great company, you need to kill most of the good ideas too.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Impressive failures signify impressive aspirations.",
+      "author": "Dean Kamen"
+    },
+    {
+      "quote": "After you plant a seed in the ground, you don’t dig it up every week to see how it is doing.",
+      "author": "William Coyne"
+    },
+    {
+      "quote": "Someone once defined a manager, half in jest, as someone who sees the visitors so that everyone else can get the work done.",
+      "author": "Henry Mintzberg"
+    },
+    {
+      "quote": "It is amazing what you can accomplish if you do not care who gets the credit.",
+      "author": "Harry S Truman"
+    },
+    {
+      "quote": "No matter how big you are, most of the smartest people work for someone else!",
+      "author": "Bill Joy"
+    },
+    {
+      "quote": "Design is the beauty of turning constraints into advantages.",
+      "author": "Aza Raskin"
+    },
+    {
+      "quote": "Confidence in nonsense is required.",
+      "author": "Burt Rutan"
+    },
+    {
+      "quote": "When two people in business always agree, one of them is unnecessary.",
+      "author": "William Wrigley Jr."
+    },
+    {
+      "quote": "I have concluded that the essence of wisdom is to hold the attitude that knowledge is fallible and to strive for a balance between knowing and doubting.",
+      "author": "John Meacham"
+    },
+    {
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "quote": "You can’t wait for inspiration. You have to go after it with a club.",
+      "author": "Jack London"
+    },
+    {
+      "quote": "Others have seen what is and asked why. I have seen what could be and asked why not.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "quote": "Experience is the teacher of all things.",
+      "author": "Julius Caesar"
+    },
+    {
+      "quote": "The engineer’s first problem in any design situation is to discover what the problem really is.",
+      "author": "Sir Henry Royce"
+    },
+    {
+      "quote": "If opportunity doesn’t knock, build a door.",
+      "author": "Milton Berle"
+    },
+    {
+      "quote": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "quote": "I didn't have time to write you a short letter, so I wrote you a long one instead.",
+      "author": "Mark Twain"
+    },
+    {
+      "quote": "I don’t care that they stole my idea; I care that they don’t have any of their own.",
+      "author": "Nikola Tesla"
+    },
+    {
+      "quote": "It’s often said that before you die your life passes before your eyes. It is in fact true. It’s called living.",
+      "author": "Terry Pratchett"
+    },
+    {
+      "quote": "To invent, you need a good imagination...and a pile of junk.",
+      "author": "Thomas Edison"
+    },
+    {
+      "quote": "However beautiful the strategy, you should occasionally look at the results.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+      "author": "Vince Lombardi"
+    },
+    {
+      "quote": "Observation leads to conceptualization, speculation, postulation, experimentation, and, eventually, discovery.",
+      "author": "Dr. Brian L. Tiep, M.D."
+    },
+    {
+      "quote": "It is easier to tame a crazy idea than to think up viable and innovative ideas from boring ones.",
+      "author": "Alex Osborn"
+    },
+    {
+      "quote": "It's hard to win an argument with a smart person, but it's damn near impossible to win an argument with a stupid person.",
+      "author": "Bill Murray"
+    },
+    {
+      "quote": "A little learning is a dangerous thing.",
+      "author": "Alexander Pope"
+    },
+    {
+      "quote": "Good intentions don’t work, but mechanisms do.",
+      "author": "Jeff Bezos"
+    },
+    {
+      "quote": "You make what you measure.",
+      "author": "Paul Graham"
+    },
+    {
+      "quote": "You must not fool yourself and you are the easiest person to fool.",
+      "author": "Richard Feynman"
+    },
+    {
+      "quote": "Blaming the user is not a good strategy.",
+      "author": "Larry Page"
+    },
+    {
+      "quote": "Data is only a middleman between phenomena and your ideas about them.",
+      "author": "Scott Berinatp"
+    },
+    {
+      "quote": "Business men go down with their businesses because they like the old way so well they cannot bring themselves to change. One sees them all about - men who do not know that yesterday is past, and who woke up this morning with their last year’s idea.",
+      "author": "Henry Ford"
+    },
+    {
+      "quote": "Belief can be manipulated. Only knowledge is dangerous.",
+      "author": "Frank Herbert"
+    },
+    {
+      "quote": "When times are hard, do something. If it works, do it some more. If it does not work, do something else. But keep going.",
+      "author": "Audre Lorde"
+    },
+    {
+      "quote": "Companies rarely die from moving too fast, and they frequently die from moving too slowly.",
+      "author": "Reed Hastings"
+    },
+    {
+      "quote": "If you choose not to decide you still have made a choice.",
+      "author": "Neil Peart"
+    },
+    {
+      "quote": "Judge a man by the questions he asks, not the answers he gives.",
+      "author": "Voltaire"
+    },
+    {
+      "quote": "A system is not the sum of the behavior of it’s parts; it’s the product of their interactions.",
+      "author": "Russell Ackoff"
+    },
+    {
+      "quote": "A collection of incompleteness, no matter how diligent or well-meaning, cannot be successful.",
+      "author": "Michael Schrage"
+    },
+    {
+      "quote": "Not facts, only information.",
+      "author": "Christophe Besset"
+    },
+    {
+      "quote": "A ship in harbor is safe, but that is not what ships are made for.",
+      "author": "John A. Shedd"
+    },
+    {
+      "quote": "Seattle is so...Seattle.",
+      "author": "Neil Peart"
+    }
   ]
 }
